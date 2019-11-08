@@ -33,7 +33,9 @@
 • docker container ls -a - List all containers;
 
 • docker container inspect - Show a JSON with container specifications;
+
 • docker container exec;
+
 • docker container logs;
 
 # Image management
